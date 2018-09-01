@@ -1,0 +1,15 @@
+----1
+------dir:6
+------dir:dadas
+------dir:q
+------dir:但是
+--------file:12 - 副本 (2).txt        139 bytes
+--------file:12.txt        139 bytes
+--------file:12345.txt        139 bytes
+--------file:123456.txt        139 bytes
+--------file:1234567.txt        139 bytes
+----6
+----dadas
+----q
+----但是
+total :695 bytes

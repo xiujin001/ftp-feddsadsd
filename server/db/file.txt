@@ -1,0 +1,7 @@
+----files_for_user_download
+--------file:1.mp3        116320 bytes
+--------file:2.jpg        29089 bytes
+--------file:9 类内置attr属性补充.avi        25066836 bytes
+--------file:day26课上代码.rar        7805 bytes
+--------file:测试图片.jpg        1464 bytes
+total :25221514 bytes
